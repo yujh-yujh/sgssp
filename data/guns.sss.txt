@@ -10,3 +10,5 @@
 4, B2acn3ckq5k6k7/S03ac4q7c8, 147, 0, 0, 2o$2o!
 8, B2aci3q4cy5acq6-an7c/S03ak4kq5aikn6-n78, 203, 0, 0, b2o$4o$4o$b2o!
 4, B2aci3qy4cy5acq6-an7/S03ak4kq5aikn6-n78, 453, 0, 0, 2o$2o!
+6, B2k3-k4ceq5y7/S23-ik4cz8, 456, 0, 0, b2o$3bo$obo$bo!
+8, B2n3-cek4jz5cy7c/S2-in3ijnqr4inqt5q6k, 746, 0, 0, 3b2o$2bo2bo$o4bo$4b2o!
